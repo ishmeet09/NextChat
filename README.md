@@ -1,1 +1,1 @@
-
+Developed a WhatsApp clone leveraging Convex for database, real-time events, and cloud functions, with Next.js App Router for the framework. Utilized ShadCN for UI components, Convex File Storage for media handling, ZegoCloud for video calls, and Clerk for user authentication, styled using Tailwind CSS. Employed TypeScript for enhanced code quality and maintainability.
